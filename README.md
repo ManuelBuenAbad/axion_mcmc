@@ -6,7 +6,7 @@ This code was written by Manuel A. Buen-Abad, 2025.
 Using the code
 --------------
 
-You can use `axion_mcmc` freely, provided that in any resulting publications you cite the paper [Banerjee, Buen-Abad, Hook (2025)](https://arxiv.org/abs/2504.yyyyy)
+You can use `axion_mcmc` freely, provided that in any resulting publications you cite the paper [Banerjee, Buen-Abad, Hook (2025)](https://arxiv.org/abs/2507.02049)
 
 The BibTeX entry for the paper is:
 
