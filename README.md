@@ -10,10 +10,12 @@ You can use `axion_mcmc` freely, provided that in any resulting publications you
 
 The BibTeX entry for the paper is:
 
-    @article{Banerjee:2025???,
-    author = "Banerjee, Abhishek, Buen-Abad, Manuel A., and Hook, Anson",
-    title = "{???????????}",
-    eprint = "2504.yyyyy",
+    @article{Banerjee:2025kov,
+    author = "Banerjee, Abhishek and Buen-Abad, Manuel A. and Hook, Anson",
+    title = "{Stacking the Deck: Gambling on a Light QCD Axion}",
+    eprint = "2507.02049",
     archivePrefix = "arXiv",
-    primaryClass = "hep-ph"
+    primaryClass = "hep-ph",
+    month = "7",
+    year = "2025"
     }
